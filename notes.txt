@@ -1,0 +1,33 @@
+
+
+
+
+
+
+Gossip entrypoint for Devnet: entrypoint.devnet.solana.com:8001
+
+https://api.devnet.solana.com - single Solana Labs hosted api node; rate-limited
+
+Example solana command-line configuration #
+To connect to the devnet Cluster using the Solana CLI:
+
+solana config set --url https://api.devnet.solana.com
+
+
+Testnet endpoint # https://api.testnet.solana.com
+
+solana config set --url https://api.testnet.solana.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
